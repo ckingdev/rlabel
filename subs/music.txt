@@ -146,7 +146,6 @@ skrillex
 Slipknot
 Songwriters
 spotify
-SubredditSummaryBot
 SwingDancing
 synthesizers
 TameImpala
