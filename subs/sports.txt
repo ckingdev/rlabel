@@ -59,12 +59,14 @@ DetroitPistons
 DetroitRedWings
 devils
 dfsports
+dkcleague
 Dodgers
 DynastyFF
 EA_FIFA
 eagles
 EA_NHL
 EdmontonOilers
+espnyankees
 Everton
 falcons
 fantasybaseball
@@ -135,6 +137,7 @@ nba
 NBA2k
 NBA_Draft
 NBASpurs
+NCBCA
 NewYorkIslanders
 NewYorkMets
 nfl
@@ -169,6 +172,7 @@ Predators
 rangers
 ravens
 razorbacks
+RealLifeFootball
 ReallyBigShow
 realmadrid
 reddevils
@@ -193,7 +197,9 @@ SoccerBetting
 soccercirclejerk
 soccerstreams
 SoundersFC
+sports
 sportsbook
+sports_undelete
 SquaredCircle
 steelers
 stlouisblues

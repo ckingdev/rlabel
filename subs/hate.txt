@@ -1,4 +1,6 @@
 4chan
+altright
+Anarcho_Capitalism
 askaconservative
 AskThe_Donald
 asktrp
@@ -8,7 +10,9 @@ changemyview
 conspiracy
 CoonTown
 CringeAnarchy
+fatlogic
 fatpeoplehate
+fatpeoplestories
 ForeverAlone
 GenderCritical
 GenderCriticalGuys
@@ -20,6 +24,7 @@ holocaust
 ImGoingToHellForThis
 Incel
 Incels
+JusticePorn
 KotakuInAction
 MaleForeverAlone
 MensRights
@@ -29,6 +34,7 @@ offensivememes
 offmychest
 opieandanthony
 RightwingLGBT
+seduction
 SubOfPeace
 TalesofFatHate
 The_Donald
@@ -36,4 +42,6 @@ TheRedPill
 TheRightBoycott
 TumblrInAction
 unpopularopinion
+watchpeopledie
 whitebeauty
+WhiteRights

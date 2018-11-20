@@ -48,6 +48,7 @@ skyrim
 Smite
 smitetraining
 strife
+sufficiencybot
 summoners
 summonerschool
 supportlol
